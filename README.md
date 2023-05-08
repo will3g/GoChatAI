@@ -6,6 +6,10 @@ This is a simple example of how to build a **chatbot using GPT-3**, **Twilio**, 
 
 ![Demo](https://i.imgur.com/l1pG4fg.gif)
 
+## Application architecture
+
+![Fluxograma](https://i.imgur.com/ir3RoKi.png)
+
 ## Installation
 
 To get started, you'll need to install the [Serverless Framework](https://www.serverless.com/framework/docs/getting-started/) and clone this repository.
